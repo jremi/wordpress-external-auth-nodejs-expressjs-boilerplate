@@ -1,0 +1,7 @@
+{
+    "wordpress": {
+        "rest_endpoint" : "http://localhost:8888/wordpress/wp-json/wp/v2/",
+        "token_auth_url": "http://localhost:8888/wordpress/wp-json/jwt-auth/v1/token",
+        "token_auth_validate_url" : "http://localhost:8888/wordpress/wp-json/jwt-auth/v1/token/validate"
+    }
+}
